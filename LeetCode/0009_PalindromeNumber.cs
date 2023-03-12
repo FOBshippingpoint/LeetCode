@@ -14,8 +14,8 @@ namespace LeetCode
             {
                 return false;
             }
-            string s = x.ToString();
-            for (int i = 0; i < s.Length; i++)
+            char[] s = x.ToString().ToCharArray();
+            for (int i = 0; i < s.Length / 2; i++)
             {
                 char reverse = s[s.Length - 1 - i];
                 if (s[i] != reverse)
