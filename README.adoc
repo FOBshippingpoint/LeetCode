@@ -1,0 +1,24 @@
+= My LeetCode Solutions
+CC Lan <https://github.com/FOBshippingpoint[@FOBshippingpoint]>
+v1.0, 2023-12-31
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:status:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+:toc:
+:toc-placement!:
+toc::[]
+
+== Adding new solution
+
+[source,console]
+----
+raku ./make-folder.raku
+# paste leetcode url...
+# and you will get the problem folder for solutions
+----
