@@ -22,3 +22,8 @@ raku ./make-folder.raku
 # paste leetcode url...
 # and you will get the problem folder for solutions
 ----
+
+== Useful Links
+
+- https://www.techinterviewhandbook.org/grind75[Grind 75]
+- https://neetcode.io/practice[NeetCode]
